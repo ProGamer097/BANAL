@@ -12,7 +12,7 @@ Welcome to the Telegram Ban All Bot, created by @oxyhu. This bot is designed to 
 - `/unbanall`: Unban all users who were previously banned from the group.
 - `/leave`: Instruct the bot to leave the current group.
 - `/restart`: Restart the bot if needed.
-
+- `/muteall`: all members is mute 
 ## Deploy to Heroku
 
 Deploying this bot to Heroku is a breeze! Simply click the "Deploy to Heroku" button below to get started:
